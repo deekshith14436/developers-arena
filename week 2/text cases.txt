@@ -1,0 +1,8 @@
+Name: Deekshith
+marks 90
+
+Name praveen
+Marks 20
+
+Name: Raju
+Marks:108
